@@ -1,3 +1,5 @@
+<!-- My Name -->
+
 #### JONATHAN REYES
 <p align="center">
 
@@ -38,6 +40,8 @@
 - 🐍 Currently learning Python  
 <br>
 
+<!-- SKILLS -->
+
 ## My Skills:
 
 <h3> Languages </h3>
@@ -53,6 +57,8 @@
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPXyRMFkHQNPrNZJKPmqBYwWvXLvEQKtlOug&s=30style=for-the-badge&logo=Arduino&logoColor=white" width="100"/>
+
+<!-- Connect with me -->
 
 ## Connect with me
 

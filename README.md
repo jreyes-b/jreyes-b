@@ -19,3 +19,8 @@
 
 <!-- PROFILE VIEWS -->
 ![GitHub followers](https://img.shields.io/github/followers/jreyes-b?style=social)  <img src="https://komarev.com/ghpvc/?username=jreyes-b" alt="jreyees-b" />
+
+<!-- ABOUT ME -->
+
+# About Me: <img src= "https://em-content.zobj.net/source/animated-noto-color-emoji/356/dizzy_1f4ab.gif" width="29px">
+<p align="center">

@@ -28,7 +28,7 @@
 ## About Me: <img src= "https://em-content.zobj.net/source/animated-noto-color-emoji/356/dizzy_1f4ab.gif" width="29px">
 <p align="center">
 
-#### Wrapped in wires and codes, I'm expanding my knowledge in areas such as programming, electronics, and robotics.
+#### Hi, i´m Jonathan Reyes a technical student in Electronic Systems, currently finishing my degree. Wrapped in wires and codes, I'm expanding my knowledge in areas such as programming, electronics, and robotics.
   
 - 🎓 Technical student in electronic systems at [CONALEP 055](https://www.facebook.com/ConalepMatamoros055/)
 <br>

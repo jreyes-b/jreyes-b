@@ -41,8 +41,14 @@
 
 <h3> Languages </h3>
 <span> 
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-  <img src="https://avatars.githubusercontent.com/u/1742866?s=30&v=4style=for-the-badge&logo=Mit App&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+   
+ 
 </span>
 
+<h4> IDE </h4>
+<span>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPXyRMFkHQNPrNZJKPmqBYwWvXLvEQKtlOug&s=30style=for-the-badge&logo=Arduino&logoColor=white" width="100"/>

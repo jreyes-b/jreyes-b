@@ -59,8 +59,8 @@
 Feel free to connect with me on the following platforms:
 
 <h5>
-  </li><a href="jonathanreyesbautista55@gmail.com">Personal Email</a></li>
-  <li><a href="jreyes0922@tam.conalep.edu.mx">Institutional Email</a></li>
+  <li><a href="mailto:jonathanreyesbautista55@gmail.com">Personal Email</a></li>
+  <li><a href="mailto:jreyes0922@tam.conalep.edu.mx">Institutional Email</a></li>
   
 </h5>
 

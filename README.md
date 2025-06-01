@@ -37,3 +37,12 @@
   
 <br>
 
+## My Skills:
+
+<h3> Languages </h3>
+<span> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+  <img src="https://avatars.githubusercontent.com/u/1742866?s=30&v=4style=for-the-badge&logo=Mit App&logoColor=white">
+</span>
+

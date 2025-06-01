@@ -1,3 +1,7 @@
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<!-- WELCOME -->
 <table align="center">
   <tr>
     <td style="vertical-align: middle;">
@@ -8,5 +12,10 @@
     </td>
   </tr>
 </table>
+
+<!-- LABELS -->
 <h2 align="center">Technical student in electronic systems | Learner in programming and robotics</h2>
 <p align="center">
+
+<!-- PROFILE VIEWS -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>

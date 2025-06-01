@@ -24,3 +24,6 @@
 
 # About Me: <img src= "https://em-content.zobj.net/source/animated-noto-color-emoji/356/dizzy_1f4ab.gif" width="29px">
 <p align="center">
+- 🎓 Studies for Technical electronic systems at [CONALEP 055]([https://www.facebook.com/ConalepMatamoros055/?locale=es_LA])
+<br>
+

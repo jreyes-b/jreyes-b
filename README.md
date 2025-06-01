@@ -31,5 +31,8 @@
 #### Hi, i´m Jonathan Reyes a technical student in Electronic Systems, currently finishing my degree. Wrapped in wires and codes, I'm expanding my knowledge in areas such as programming, electronics, and robotics. Passionate about tackling technological challenges and programming innovative robots.
   
 - 🎓 Technical student in electronic systems at [CONALEP 055](https://www.facebook.com/ConalepMatamoros055/)
+- ⚒️ Experience building projects with Arduino
+- 🌱 Always learning new things 
+  
 <br>
 

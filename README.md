@@ -18,4 +18,4 @@
 <p align="center">
 
 <!-- PROFILE VIEWS -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
+![GitHub followers](https://img.shields.io/github/followers/jreyes-b?style=social)  <img src="https://komarev.com/ghpvc/?username=jreyes-b" alt="jreyees-b" />

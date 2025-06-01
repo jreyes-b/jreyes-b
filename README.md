@@ -17,9 +17,11 @@
 </table>
 
 <!-- LABELS -->
-<h2 align="center">Technical student in electronic systems | Learner in programming and robotics</h2>
+<h3 align="center"> Technical student in electronic systems | Learner in programming and robotics</h2>
 <p align="center">
-
+  
+---
+  
 <!-- PROFILE VIEWS -->
 ![GitHub followers](https://img.shields.io/github/followers/jreyes-b?style=social)  <img src="https://komarev.com/ghpvc/?username=jreyes-b" alt="jreyees-b" />
 
@@ -33,8 +35,7 @@
 - 🎓 Technical student in electronic systems at [CONALEP 055](https://www.facebook.com/ConalepMatamoros055/)
 - ⚒️ Experience building projects with Arduino
 - 🌱 Always learning new things
-- 🐍 Currently learning Python
-  
+- 🐍 Currently learning Python  
 <br>
 
 ## My Skills:
@@ -43,22 +44,22 @@
 <span> 
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-   
- 
+    
 </span>
 
-<h4> IDE </h4>
+## IDE
+
 <span>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPXyRMFkHQNPrNZJKPmqBYwWvXLvEQKtlOug&s=30style=for-the-badge&logo=Arduino&logoColor=white" width="100"/>
 
-<h5> Connect with me <h5>
+## Connect with me
 
 Feel free to connect with me on the following platforms:
 
 <h5>
-  <li><a href="jonathanreyesbautista55@gmail.com">Personal Email</a></li>
+  </li><a href="jonathanreyesbautista55@gmail.com">Personal Email</a></li>
   <li><a href="jreyes0922@tam.conalep.edu.mx">Institutional Email</a></li>
   
 </h5>

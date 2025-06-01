@@ -32,7 +32,8 @@
   
 - 🎓 Technical student in electronic systems at [CONALEP 055](https://www.facebook.com/ConalepMatamoros055/)
 - ⚒️ Experience building projects with Arduino
-- 🌱 Always learning new things 
+- 🌱 Always learning new things
+- 🐍 Currently learning Python
   
 <br>
 

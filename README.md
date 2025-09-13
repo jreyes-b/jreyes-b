@@ -25,7 +25,7 @@
 ---
   
 <!-- PROFILE VIEWS -->
-![GitHub followers](https://img.shields.io/github/followers/jreyes-b?style=social)  <img src="https://komarev.com/ghpvc/?username=jreyes-b" alt="jreyees-b" />
+![GitHub followers](https://img.shields.io/github/followers/jreyes-b?style=social)  
 
 <!-- ABOUT ME -->
 

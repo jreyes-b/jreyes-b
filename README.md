@@ -19,7 +19,7 @@
 </table>
 
 <!-- LABELS -->
-<h3 align="center"> Technical student in electronic systems | Learner in programming and robotics</h2>
+<h3 align="center"> Technical in electronic systems | Learner in programming and robotics</h2>
 <p align="center">
   
 ---
@@ -32,9 +32,10 @@
 ## About Me: <img src= "https://em-content.zobj.net/source/animated-noto-color-emoji/356/dizzy_1f4ab.gif" width="29px">
 <p align="center">
 
-#### Hi, i´m Jonathan Reyes a technical student in Electronic Systems, currently finishing my degree. Wrapped in wires and codes, I'm expanding my knowledge in areas such as programming, electronics, and robotics. Passionate about tackling technological challenges and programming innovative robots.
+#### Hi, i´m Jonathan Reyes a TSU student in Automation. Wrapped in wires and codes, I'm expanding my knowledge in areas such as programming, electronics, and robotics. Passionate about tackling technological challenges and programming innovative robots.
   
-- 🎓 Technical student in electronic systems at [CONALEP 055](https://www.facebook.com/ConalepMatamoros055/)
+- 👨‍🎓 Technical in electronic systems at [CONALEP 055](https://www.facebook.com/ConalepMatamoros055/)
+- 🎓 Associate Degree student in Automation  at [Universidad Tecnologica de Matamoros](https://www.utmatamoros.edu.mx/)
 - ⚒️ Experience building projects with Arduino
 - 🌱 Always learning new things
 - 🐍 Currently learning Python  
